@@ -1,0 +1,98 @@
+Katie Lunceford
+Checkpoint 5 Run Times
+
+1. JamesJoyce.AfterTheRace.txt
+Dictionary: 0.00240
+Heap: 0.00266
+
+2. JamesJoyce.Araby.txt
+Dictionary: 0.00238
+Heap: 0.0026
+
+3. JamesJoyce.Encounter.txt
+Dictionary: 0.00290
+Heap: 0.0071
+
+4. JamesJoyce.Eveline.txt
+Dictionary: 0.00187
+Heap: 0.00346
+
+5. JamesJoyce.TheBoardingHouse.txt
+Dictionary: 0.00253
+Heap: 0.00600
+
+6. JamesJoyce.Uly1.txt
+Dictionary: 0.00582
+Heap: 0.01468
+
+7.  JamesJoyce.Uly2.txt
+Dictionary: 0.00467
+Heap: 0.01038
+
+8. JamesJoyce.Uly3.txt
+Dictionary: 0.01269
+Heap: 0.01462
+
+9. JamesJoyce.Uly4.txt
+Dictionary: 0.00530
+Heap: 0.01254
+
+10. JamesJoyce.Uly5.txt
+Dictionary: 0.00717
+Heap: 0.00565
+
+11. MarkTwain.ConnecticutYankee1.txt
+Dictionary: 0.01025
+Heap: 0.01417
+
+12. MarkTwain.ConnecticutYankee2.txt
+Dictionary: 0.00842
+Heap: 0.01419
+
+13. MarkTwain.ConnecticutYankee3.txt
+Dictionary: 0.01051
+Heap: 0.00895
+
+14. MarkTwainConnecticutYankee4.txt
+Dictionary 0.01372
+Heap: 0.02409
+
+15. MarkTwainConnecticutYankee5.txt
+Dictionary: 0.01016
+Heap: 0.01492
+
+16. MarkTwainConnecticutYankee7.txt
+Dictionary: 0.00932
+Heap: 0.1490
+
+17. MarkTwainConnecticutYankee8.txt
+Dictionary: 0.00842
+Heap: 0.01443
+
+18. MarkTwain.ConnecticutYankee9.txt
+Dictionary: 0.00760
+Heap: 0.00709
+
+19. Poe.CaskofAmontillado.txt
+Dictionary: 0.00355
+Heap: 0.00603
+
+20. Poe.FallHouseOfUsher.txt
+Dictionary: 0.00567
+Heap: 0.01133
+
+21. Poe.MasqueofTheRedDeath.txt
+Dictionary: 0.00232
+Heap: 0.00724
+
+22. Poe.Raven.txt
+Dictionary: 0.00124
+Heap: 0.00342
+
+
+
+
+
+
+
+
